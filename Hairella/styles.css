@@ -1,0 +1,33 @@
+body{
+    background-color:#e86165
+}
+.top{
+    display:flex;
+    gap:15%;
+    margin-top:40px;
+    margin-left:40px;
+}
+.image {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    gap: 20px; /* Space between text and image */
+    margin-top:40px
+}
+.image img{
+    width: 300px; /* Adjust image size */
+    height: auto;
+}
+.fear {
+    max-width: 400px; /* Limit text width */
+}
+.mission{
+    text-align: center;
+}
+.values{
+    display:flex;
+    gap:25px;
+    margin-left:150px;
+}
+h3{
+    text-align: center;
+}
